@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "RTSupportCode"
-  s.version      = "1.6"
+  s.version      = "1.7"
   s.summary      = "Unlock functionality on any application but in a way that is not publicly visible."
 
   # This description is used to generate tags and improve search results.
