@@ -64,7 +64,7 @@ RTSupportCode provides great use for any iOS application. What it does is enable
   #  the deployment target. You can optionally include the target after the platform.
   #
 
-  # s.platform     = :ios
+  s.platform     = :ios, "10.0"
   # s.platform     = :ios, "5.0"
 
   #  When using multiple platforms
