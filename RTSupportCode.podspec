@@ -25,7 +25,6 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
-RTSupportCode provides great use for any iOS application. What it does is enables the user to unlock functionality on an application but doing in a way that is not publicly visible. For example it can be used to switch an app from the live server to the development server, enable logging of analytic events, display screen touches in an app for demos, etc.. RTSupportCodeFramework can allow all these things without the need for a developer to update the app.
                    DESC
 
   s.homepage     = "https://github.com/ryanphillipthomas/RTSupportCode"
@@ -80,7 +79,7 @@ RTSupportCode provides great use for any iOS application. What it does is enable
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/RTSupportCode.git", :tag => "#{s.version}" }
+  s.source       = { :git => "http://github.com/RTSupportCode.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
