@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "RTSupportCode"
-  s.version      = "1.5"
+  s.version      = "1.6"
   s.summary      = "Unlock functionality on any application but in a way that is not publicly visible."
 
   # This description is used to generate tags and improve search results.
@@ -80,7 +80,7 @@ RTSupportCode provides great use for any iOS application. What it does is enable
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "http://github.com/RTSupportCode.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/RTSupportCode.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
