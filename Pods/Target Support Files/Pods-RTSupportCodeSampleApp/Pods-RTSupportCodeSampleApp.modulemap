@@ -1,0 +1,6 @@
+framework module Pods_RTSupportCodeSampleApp {
+  umbrella header "Pods-RTSupportCodeSampleApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
