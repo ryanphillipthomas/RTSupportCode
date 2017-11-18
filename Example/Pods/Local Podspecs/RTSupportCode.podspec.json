@@ -1,8 +1,8 @@
 {
   "name": "RTSupportCode",
-  "version": "0.1.0",
-  "summary": "A short description of RTSupportCode.",
-  "description": "TODO: Add long description of the pod here.",
+  "version": "1.9",
+  "summary": "Unlock functionality on any application but in a way that is not publicly visible.",
+  "description": "RTSupportCode provides great use for any iOS application. What it does is enables the user to unlock functionality on an application but doing in a way that is not publicly visible. For example it can be used to switch an app from the live server to the development server, enable logging of analytic events, display screen touches in an app for demos, etc.. RTSupportCodeFramework can allow all these things without the need for a developer to update the app.",
   "homepage": "https://github.com/ryanphillipthomas/RTSupportCode",
   "license": {
     "type": "MIT",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/ryanphillipthomas/RTSupportCode.git",
-    "tag": "0.1.0"
+    "tag": "1.9"
   },
   "platforms": {
     "ios": "8.0"

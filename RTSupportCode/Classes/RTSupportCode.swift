@@ -73,11 +73,11 @@ public final class RTSupportCode {
             preEnteredCode = url.lastPathComponent
         }
         
-        if preEnteredCode.characters.count > 0 {
+        if preEnteredCode.count > 0 {
             textField.text = preEnteredCode
         } else {
             let savedCode = self.savedCode()
-            if savedCode.characters.count > 0 {
+            if savedCode.count > 0 {
                 textField.text = savedCode
             } else {
                 textField.placeholder = "Enter your support code"

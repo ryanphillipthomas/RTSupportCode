@@ -1,7 +1,7 @@
 PODS:
   - Nimble (7.0.2)
   - Quick (1.2.0)
-  - RTSupportCode (0.1.0)
+  - RTSupportCode (1.9)
 
 DEPENDENCIES:
   - Nimble (~> 7.0.2)
@@ -15,7 +15,7 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   Nimble: bfe1f814edabba69ff145cb1283e04ed636a67f2
   Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
-  RTSupportCode: 04ac943b27f14e3592d69555f23b24ee4fd9822b
+  RTSupportCode: 35470dbc372148cace77b94569b18898818b2e94
 
 PODFILE CHECKSUM: 4c43f8ef5e1e42a212f804911a228f5e5d7173f6
 
