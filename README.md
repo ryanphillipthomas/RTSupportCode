@@ -19,7 +19,7 @@ $ brew install carthage
 To integrate RTSupportCode into your Xcode project using Carthage, specify it in your `Cartfile`:
 
 ```ogdl
-git "git@github.com:ryanphillipthomas/RTSupportCode.git" ~> 2.0
+git "git@github.com:ryanphillipthomas/RTSupportCode.git" ~> 2.1
 ```
 
 Run `carthage` to build the framework and drag the built `RTSupportCode.framework` into your Xcode project.
