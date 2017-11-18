@@ -15,13 +15,13 @@ class RTSupportCodeRestartViewController: UIViewController {
         super.viewDidLoad()
        
         let label = UILabel()
-        label.frame = CGRect(x: view.frame.origin.x, y: view.frame.origin.y, width: view.frame.width - 20, height: view.frame.height)
+        label.frame = CGRect(x: view.frame.origin.x, y: view.frame.origin.y, width: view.frame.width - 40, height: view.frame.height)
         label.numberOfLines = 0
         label.textAlignment = .center;
         label.center = view.center
         
         if enteredCode.characters.count > 0 {
-            label.text = "\(enteredCode) was entered successfully, please restart the application for the changes to take in effect."
+            label.text = "\(enteredCode) was entered successfully.\n\n Please restart the application for the changes to take in effect."
         } else {
             label.text = "The current support code was removed successfully, please restart the application for the changes to take in effect."
         }
