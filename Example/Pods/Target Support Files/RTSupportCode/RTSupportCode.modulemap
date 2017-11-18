@@ -1,0 +1,6 @@
+framework module RTSupportCode {
+  umbrella header "RTSupportCode-umbrella.h"
+
+  export *
+  module * { export * }
+}
